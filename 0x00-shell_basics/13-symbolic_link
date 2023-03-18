@@ -1,3 +1,2 @@
 #!/bin/bash
-cat >>13-symbolic_link<<EOL
 ln -s /bin/ls __ls__
